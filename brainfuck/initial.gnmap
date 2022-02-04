@@ -1,0 +1,4 @@
+# Nmap 7.91 scan initiated Fri Feb  4 04:32:03 2022 as: nmap -sC -sV -O -oA initial 10.10.10.17
+Host: 10.10.10.17 (Brainfuck.htb)	Status: Up
+Host: 10.10.10.17 (Brainfuck.htb)	Ports: 22/open/tcp//ssh//OpenSSH 7.2p2 Ubuntu 4ubuntu2.1 (Ubuntu Linux; protocol 2.0)/, 25/open/tcp//smtp//Postfix smtpd/, 110/open/tcp//pop3//Dovecot pop3d/, 143/open/tcp//imap//Dovecot imapd/, 443/open/tcp//ssl|http//nginx 1.10.0 (Ubuntu)/	Ignored State: filtered (995)	Seq Index: 261	IP ID Seq: All zeros
+# Nmap done at Fri Feb  4 04:33:03 2022 -- 1 IP address (1 host up) scanned in 60.75 seconds
