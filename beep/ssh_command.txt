@@ -1,0 +1,1 @@
+ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 admin@10.10.10.7
